@@ -1,4 +1,4 @@
-function multy(a,b){
+var multy = (a,b) => {
     return a*b;
 }
 
